@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="656.27002"
+   height="719.10999"
+   id="svg2388"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Герб Златоуста.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2394" />
+    <inkscape:perspective
+       id="perspective2392"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="328.74472"
+     inkscape:cy="352.0887"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1152"
+     inkscape:window-height="792"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Герб г. Златоуст</dc:title>
+        <dc:date>04.11.2009</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>amphetoleto</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>amphetoleto</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/3.0/" />
+        <dc:description>Герб представляет собой силуэт ковша для разливки стали, но и одновременно напоминает воинский щит. Летящий золотой конь на ярком красном фоне - образ мифологического Пегаса - символизирует искусство златоустовской гравюры.
+
+(Златоустовская энциклопедия. 1994 г.)</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.79237,-56.87091)">
+    <g
+       id="g3173"
+       transform="translate(4.2857142,4.2857143)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         d="M 77.549769,74.90047 L 82.64367,171.57583 L 65.857969,171.57583 L 70.984169,249.02543 L 88.156769,249.02543 L 110.32177,664.16497 C 111.55327,690.34737 131.24037,718.77517 167.93379,721.77697 L 333.55819,721.65057 C 354.12169,722.29657 368.99749,737.13217 372.97559,752.31887 C 376.95379,737.13227 391.81939,721.63497 412.39309,721.65067 L 578.01739,721.77717 C 614.71089,718.77527 634.39799,690.34757 635.62939,664.16513 L 657.79449,249.02559 L 674.96709,249.02559 L 680.09329,171.57599 L 663.30759,171.57599 L 668.44799,74.90056 L 77.549769,74.90047 z"
+         style="fill:#da251d;fill-opacity:1;fill-rule:evenodd;stroke:#da251d;stroke-width:9.56692886;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-mid:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2398" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccc"
+         d="M 651.17769,459.65587 C 527.50428,422.74242 397.55695,385.87941 268.27339,374.96551 C 244.21785,373.69392 239.4924,373.56697 213.02834,375.12725 C 185.60154,375.98434 88.52337,393.21551 88.52337,393.21551 L 88.27337,381.71551 L 208.27339,355.03694 C 223.37809,351.30253 234.29179,346.46836 244.94489,339.80128 C 275.87511,323.17773 280.58588,254.78297 236.81319,258.30722 L 244.76809,298.25875 L 230.62599,303.91561 L 166.45609,208.98652 L 198.27589,220.38862 C 245.36339,185.52368 300.58539,192.62441 337.99009,243.66508 C 349.87919,264.24871 371.87059,318.76485 371.87059,318.76485 C 373.69789,322.42009 376.48109,323.2068 378.91949,323.84718 C 381.52699,324.4438 386.28769,324.54486 386.23369,323.84718 L 316.53949,161.78714 L 572.77339,72.84051 L 574.52339,103.09051 L 459.81699,167.97433 L 515.14839,167.97433 L 500.39839,213.84051 L 448.64839,233.09051 L 494.39839,233.09051 L 471.39839,308.21551 L 403.27339,335.84051 L 650.39839,448.34051 L 651.17769,459.65587 z"
+         style="fill:#fff500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3238" />
+      <path
+         id="path14"
+         sodipodi:nodetypes="csscsssscs"
+         d="M 458.60579,364.97718 C 489.75379,340.98678 543.26929,357.41808 579.08799,380.45941 C 605.13179,397.2128 641.42869,405.03753 658.10579,399.72718 C 671.25599,395.53984 658.85579,357.47718 658.85579,357.47718 C 658.85579,357.47718 631.57199,364.91286 605.60579,359.72718 C 577.01229,354.01681 555.75909,342.95339 533.85579,339.72718 C 517.46659,337.31318 486.93569,333.31544 445.85579,357.72718 C 445.79129,357.76549 441.68539,361.75753 441.72359,361.82207 C 442.83479,363.6997 448.64269,372.65078 451.97889,370.08127 L 458.60579,364.97718 z"
+         style="fill:#fff500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         d="M 677.30839,65.62091 L 671.88029,163.28971 L 688.31549,163.28951 L 683.13829,256.69051 L 666.79639,256.69051 L 644.49309,662.03353 C 641.93929,708.84157 606.49629,728.07907 576.44409,730.34347 C 576.44409,730.34347 414.10239,730.34347 414.10239,730.34347 C 390.12299,731.55117 380.78879,748.26967 378.68629,761.23247 L 367.22249,761.23247 C 365.06909,748.34067 355.73489,731.55127 331.75549,730.34357 C 331.75549,730.34357 169.41379,730.34357 169.41379,730.34357 C 139.36163,728.07917 103.91856,708.84177 101.36484,662.03364 L 79.061509,256.69062 L 62.71962,256.69062 L 57.54237,163.28961 L 73.977649,163.28981 L 68.54916,65.6213 L 677.30839,65.62091 z"
+         style="fill:none;fill-rule:evenodd;stroke:#fff500;stroke-width:17.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path6605" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="M 670.62989,501.95546 L 665.47859,600.09051 L 80.53125,600.09062 L 75.228789,501.95551 L 670.62989,501.95546 z"
+         style="fill:#fff500;fill-opacity:1;fill-rule:evenodd;stroke:#fff500;stroke-width:17.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3202" />
+    </g>
+  </g>
+</svg>
